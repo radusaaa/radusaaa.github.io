@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:dcq="http://purl.org/dc/documents/rec/dcmes-qualifiers-20000711.htm">
+<rdf:Description rdf:about="Esej">
+<dc:Title>
+Esej
+</dc:Title>
+<dc:Creator>
+Radka Planková
+</dc:Creator>
+<dc:Subject>
+<rdf:Bag>
+<rdf:li>
+komunikace
+</rdf:li>
+<rdf:li>
+film
+</rdf:li>
+<rdf:li>
+sociologie
+</rdf:li>
+</rdf:Bag>
+</dc:Subject>
+<dc:Description>
+<rdf:Description>
+<dcq:DescriptionType>abstract</dcq:DescriptionType>
+<rdf:value>Esej pojednává o komunikaci mezi neslyšícími na základě filmového díla. </rdf:value>
+</rdf:Description>
+</dc:Description>
+<dc:Publisher>
+Univerzita Karlova v Praze
+</dc:Publisher>
+<dc:Date>
+<rdf:Description>
+<dcq:DateType>created</dcq:DateType>
+<dcq:DateScheme>W3C-DTF</dcq:DateScheme>
+<rdf:value>2016-03-20</rdf:value>
+</rdf:Description>
+</dc:Date>
+<dc:Type>
+<rdf:Description>
+<dcq:TypeSheme>DCMIType</dcq:TypeSheme>
+<rdf:value>Text</rdf:value>
+</rdf:Description>
+</dc:Type>
+<dc:Format>
+<rdf:Description>
+<dcq:FormatSheme>IMT</dcq:FormatSheme>
+<rdf:value>text/html</rdf:value>
+</rdf:Description>
+</dc:Format>
+<dc:Identifier>http://radusaaa.github.io/Esej.html</dc:Identifier>
+<dc:Language>
+<rdf:Description>
+<dcq:LanguageScheme>RFC3066</dcq:LanguageScheme>
+<rdf:value>cze</rdf:value>
+</rdf:Description>
+</dc:Language>
+<dc:Rights>Dokument je dostupný pod licencí CC BY.</dc:Rights>
+</rdf:Description>
+</rdf:RDF>
